@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Net Name : Old Net Name=Net_2 New Net Name=NetD1_2
+Added Member To Class: ClassName=Esquematico Member=Component R4 Res1

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=PWR2.5 12V-1A
+Removed Pin From Net: NetName=GND Pin=PWR2.5 12V-1B
+Removed Pin From Net: NetName=GND Pin=PWR2.5 12V-1
+Removed Pin From Net: NetName=+12 Pin=PWR2.5 12V-2A
+Removed Pin From Net: NetName=+12 Pin=PWR2.5 12V-2B
+Removed Pin From Net: NetName=+12 Pin=PWR2.5 12V-2
+Change Component Designator: OldDesignator=A4988 NewDesignator=Drv8825
+Added Pin To Net: NetName=+12 Pin=PWR2.5 12V-1A
+Added Pin To Net: NetName=+12 Pin=PWR2.5 12V-1B
+Added Pin To Net: NetName=+12 Pin=PWR2.5 12V-1
+Added Pin To Net: NetName=GND Pin=PWR2.5 12V-2A
+Added Pin To Net: NetName=GND Pin=PWR2.5 12V-2B
+Added Pin To Net: NetName=GND Pin=PWR2.5 12V-2
+Added Member To Class: ClassName=Esquematico Member=Component D1 LED 5mm
+Added Member To Class: ClassName=Esquematico Member=Component Drv8825 Bornera, 12 pin
+Added Member To Class: ClassName=Esquematico Member=Component VR1 Volt Reg

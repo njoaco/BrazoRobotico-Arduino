@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=+5 Pin=A988-5
+Removed Pin From Net: NetName=+5 Pin=A988-6
+Change Component Designator: OldDesignator=A988 NewDesignator=Drv8825
+Change Component Designator: OldDesignator=DIR_STEP NewDesignator=STEP_DIR
+Change Component Designator: OldDesignator=Giro Motor NewDesignator=P1
+Change component parameters: Designator = "C1" ("C1"); Footprint = "Cap Elec 100nF"; UniqueID = "\HXSIAMCO" ("\HXSIAMCO")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "Cap Elec 100nF"; UniqueID = "\ITUAWOCU" ("\ITUAWOCU")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=J?(IEC7-2H3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bulgin.co.uk/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "ver.80, 15-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = "Corresponds to nominal value."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "15-Jul-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Component Replaced & renamed from "Phonejack"."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaximumRating"; Value = "10A, 250V a.c. (UL & CSA 15A, 250V a.c.)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountingFixtures"; Value = "Not drawn on schematic symbol."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "ver.80, 15-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PX0675/PC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Complies with manufacturer's recommendation."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "15-Jul-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminations"; Value = "P.C. Spills"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDrv8825_5 Pin=Drv8825-5
+Added Pin To Net: NetName=NetDrv8825_5 Pin=Drv8825-6
+Added Net: Name=NetDrv8825_5
+Added Member To Class: ClassName=Esquematico Member=Component J? Plug AC Female

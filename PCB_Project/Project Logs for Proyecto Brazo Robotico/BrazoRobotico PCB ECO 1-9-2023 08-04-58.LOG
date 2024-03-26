@@ -1,0 +1,16 @@
+Added Component: Designator=PWR2.5(KLD-0202)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://domino.kycon.com/internet/Products.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "09-May-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=PWR2.5-1A
+Added Pin To Net: NetName=+12 Pin=PWR2.5-1B
+Added Pin To Net: NetName=+12 Pin=PWR2.5-1
+Added Pin To Net: NetName=GND Pin=PWR2.5-2A
+Added Pin To Net: NetName=GND Pin=PWR2.5-2B
+Added Pin To Net: NetName=GND Pin=PWR2.5-2
+Added Pin To Net: NetName=GND Pin=PWR2.5-3A
+Added Pin To Net: NetName=GND Pin=PWR2.5-3B
+Added Pin To Net: NetName=GND Pin=PWR2.5-3
+Added Member To Class: ClassName=Esquematico Member=Component PWR2.5

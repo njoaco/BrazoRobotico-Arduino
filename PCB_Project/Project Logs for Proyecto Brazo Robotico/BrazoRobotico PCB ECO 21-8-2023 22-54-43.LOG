@@ -1,0 +1,20 @@
+Change Physical Footprint: Designator=A988 Old Footprint=DRV8825 New Footprint=DRV8825
+Change Physical Footprint: Designator=Alim. Arduino Old Footprint=HDR1*5 New Footprint=HDR1*5
+Change Physical Footprint: Designator=C1 Old Footprint=Cap 100uF x 25V (POL) New Footprint=Cap 100uF x 25V (POL)
+Change Physical Footprint: Designator=C2 Old Footprint=Cap 100uF x 25V (POL) New Footprint=Cap 100uF x 25V (POL)
+Change Physical Footprint: Designator=C3 Old Footprint=Cap 100uF x 25V (POL) New Footprint=Cap 100uF x 25V (POL)
+Change Physical Footprint: Designator=D1 Old Footprint=LED 5mm New Footprint=LED 5mm
+Change Physical Footprint: Designator=FUENTE Old Footprint=ED130-2P New Footprint=ED130-2P
+Change Physical Footprint: Designator=HC-06 Old Footprint=HDR1X4 New Footprint=HDR1X4
+Change Physical Footprint: Designator=Header GND Old Footprint=HDR1X6 New Footprint=HDR1X6
+Change Physical Footprint: Designator=Header VCC Old Footprint=HDR1X6 New Footprint=HDR1X6
+Change Physical Footprint: Designator=P1 Old Footprint=HDR1X4 New Footprint=HDR1X4
+Change Physical Footprint: Designator=PWR2.5 12V Old Footprint=KLD-0202 New Footprint=KLD-0202
+Change Physical Footprint: Designator=R1 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.4
+Change Physical Footprint: Designator=R2 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.4
+Change Physical Footprint: Designator=R3 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.4
+Change Physical Footprint: Designator=R4 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.4
+Change Physical Footprint: Designator=RX_TX Old Footprint=HDR1X2 New Footprint=HDR1X2
+Change Physical Footprint: Designator=STEP_DIR Old Footprint=HDR1X2 New Footprint=HDR1X2
+Change Physical Footprint: Designator=TIP32 Old Footprint=TO-220AB New Footprint=TO-220AB
+Change Physical Footprint: Designator=VR1 Old Footprint=VRM New Footprint=VRM

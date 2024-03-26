@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=+5 Motor(s) Pin=C2-2
+Added Pin To Net: NetName=+5 Motor(s) Pin=D1-1
+Added Pin To Net: NetName=+5 Motor(s) Pin=LM7805 Motor-3
+Added Pin To Net: NetName=+5 Motor(s) Pin=TIP32-2
+Change Net Name : Old Net Name=+5 Motor(s) New Net Name=+5V Motor(s)

@@ -1,0 +1,20 @@
+Added Component: Designator=Velocidad(HDR1X15)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Velocidad-1
+Added Pin To Net: NetName=GND Pin=Velocidad-2
+Added Pin To Net: NetName=GND Pin=Velocidad-3
+Added Pin To Net: NetName=+5 Pin=Velocidad-4
+Added Pin To Net: NetName=GND Pin=Velocidad-5
+Added Pin To Net: NetName=GND Pin=Velocidad-6
+Added Pin To Net: NetName=GND Pin=Velocidad-7
+Added Pin To Net: NetName=+5 Pin=Velocidad-8
+Added Pin To Net: NetName=GND Pin=Velocidad-9
+Added Pin To Net: NetName=+5 Pin=Velocidad-10
+Added Pin To Net: NetName=+5 Pin=Velocidad-11
+Added Pin To Net: NetName=GND Pin=Velocidad-12
+Added Pin To Net: NetName=+5 Pin=Velocidad-13
+Added Pin To Net: NetName=+5 Pin=Velocidad-14
+Added Pin To Net: NetName=+5 Pin=Velocidad-15
+Added Member To Class: ClassName=Esquematico Member=Component Velocidad Header 15

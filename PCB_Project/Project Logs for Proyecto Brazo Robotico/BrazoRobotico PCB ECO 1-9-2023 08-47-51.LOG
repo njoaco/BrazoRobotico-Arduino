@@ -1,0 +1,14 @@
+Added Component: Designator=Velocidad(hdr1x12)
+Added Pin To Net: NetName=GND Pin=Velocidad-1
+Added Pin To Net: NetName=GND Pin=Velocidad-2
+Added Pin To Net: NetName=GND Pin=Velocidad-3
+Added Pin To Net: NetName=+5 Pin=Velocidad-4
+Added Pin To Net: NetName=GND Pin=Velocidad-5
+Added Pin To Net: NetName=GND Pin=Velocidad-6
+Added Pin To Net: NetName=+5 Pin=Velocidad-7
+Added Pin To Net: NetName=+5 Pin=Velocidad-8
+Added Pin To Net: NetName=GND Pin=Velocidad-9
+Added Pin To Net: NetName=+5 Pin=Velocidad-10
+Added Pin To Net: NetName=+5 Pin=Velocidad-11
+Added Pin To Net: NetName=+5 Pin=Velocidad-12
+Added Member To Class: ClassName=Esquematico Member=Component Velocidad Header 12

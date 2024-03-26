@@ -1,0 +1,35 @@
+Added Component: Designator=Arduino Header(HDR1X10)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetArduino Header_1 Pin=Arduino Header-1
+Added Pin To Net: NetName=NetArduino Header_1 Pin=Arduino Nano-29
+Added Net: Name=NetArduino Header_1
+Added Pin To Net: NetName=NetArduino Header_2 Pin=Arduino Header-2
+Added Pin To Net: NetName=NetArduino Header_2 Pin=Arduino Nano-28
+Added Net: Name=NetArduino Header_2
+Added Pin To Net: NetName=NetArduino Header_3 Pin=Arduino Header-3
+Added Pin To Net: NetName=NetArduino Header_3 Pin=Arduino Nano-27
+Added Net: Name=NetArduino Header_3
+Added Pin To Net: NetName=NetArduino Header_4 Pin=Arduino Header-4
+Added Pin To Net: NetName=NetArduino Header_4 Pin=Arduino Nano-26
+Added Net: Name=NetArduino Header_4
+Added Pin To Net: NetName=NetArduino Header_5 Pin=Arduino Header-5
+Added Pin To Net: NetName=NetArduino Header_5 Pin=Arduino Nano-25
+Added Net: Name=NetArduino Header_5
+Added Pin To Net: NetName=NetArduino Header_6 Pin=Arduino Header-6
+Added Pin To Net: NetName=NetArduino Header_6 Pin=Arduino Nano-24
+Added Net: Name=NetArduino Header_6
+Added Pin To Net: NetName=NetArduino Header_7 Pin=Arduino Header-7
+Added Pin To Net: NetName=NetArduino Header_7 Pin=Arduino Nano-23
+Added Net: Name=NetArduino Header_7
+Added Pin To Net: NetName=NetArduino Header_8 Pin=Arduino Header-8
+Added Pin To Net: NetName=NetArduino Header_8 Pin=Arduino Nano-22
+Added Net: Name=NetArduino Header_8
+Added Pin To Net: NetName=NetArduino Header_9 Pin=Arduino Header-9
+Added Pin To Net: NetName=NetArduino Header_9 Pin=Arduino Nano-21
+Added Net: Name=NetArduino Header_9
+Added Pin To Net: NetName=NetArduino Header_10 Pin=Arduino Header-10
+Added Pin To Net: NetName=NetArduino Header_10 Pin=Arduino Nano-20
+Added Net: Name=NetArduino Header_10
+Added Member To Class: ClassName=Esquematico Member=Component Arduino Header Header 10

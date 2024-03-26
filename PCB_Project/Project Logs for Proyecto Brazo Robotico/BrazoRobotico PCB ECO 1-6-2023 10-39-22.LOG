@@ -1,0 +1,7 @@
+Added Component: Designator=Conexion con Arduino (5)(HDR1*5)
+Added Pin To Net: NetName=+5 Pin=Conexion con Arduino (5)-1
+Added Pin To Net: NetName=+5 Pin=Conexion con Arduino (5)-2
+Added Pin To Net: NetName=+5 Pin=Conexion con Arduino (5)-3
+Added Pin To Net: NetName=+5 Pin=Conexion con Arduino (5)-4
+Added Pin To Net: NetName=GND Pin=Conexion con Arduino (5)-5
+Added Member To Class: ClassName=Esquematico Member=Component Conexion con Arduino (5) Bornera, 12 pin

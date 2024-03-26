@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=D1-1
+Change Component Designator: OldDesignator=ARDUINO NewDesignator=Conexion con Arduino (5)
+Change Component Designator: OldDesignator=Microcontrolador NewDesignator=Microcontrollador
+Added Component: Designator=P1(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R3(AXIAL-0.4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+5 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R3-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetDrv8825_11 Pin=Drv8825-11
+Added Pin To Net: NetName=NetDrv8825_11 Pin=P1-1
+Added Net: Name=NetDrv8825_11
+Added Pin To Net: NetName=NetDrv8825_12 Pin=Drv8825-12
+Added Pin To Net: NetName=NetDrv8825_12 Pin=P1-4
+Added Net: Name=NetDrv8825_12
+Added Pin To Net: NetName=NetDrv8825_13 Pin=Drv8825-13
+Added Pin To Net: NetName=NetDrv8825_13 Pin=P1-3
+Added Net: Name=NetDrv8825_13
+Added Pin To Net: NetName=NetDrv8825_14 Pin=Drv8825-14
+Added Pin To Net: NetName=NetDrv8825_14 Pin=P1-2
+Added Net: Name=NetDrv8825_14
+Added Member To Class: ClassName=Esquematico Member=Component P1 Direccion del motor
+Added Member To Class: ClassName=Esquematico Member=Component R3 Res1

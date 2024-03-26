@@ -1,0 +1,16 @@
+Driver A4988 para motor nema x3 (es necesario uno)
+Regulador de voltaje LM7805 x2 (es necesario uno)
+Transistor TIP32 x2 (es necesario uno)
+Tira 50 Headers hembra-macho
+Tira 10 Headers macho-macho
+Resistencia 220ohms x5
+Capacitor polarizado 10uF 25v x3 (siempre mayor a 12v)
+Capacitor polarizado 1uF 25v x3 (siempre mayor a 12v)
+Capacitor polarizado 100uF 50v x3 (siempre mayor a 12v)
+LED 5mm x2 (en lo posible verde)
+Disipador para To220 Aluminio con aislante mica x2
+Arduino NANO ✓✓
+DC 12V ✓✓
+Bornera de 2 ✓✓
+HC-06 ✓✓
+Resistencia 10ohms 2w ✓✓

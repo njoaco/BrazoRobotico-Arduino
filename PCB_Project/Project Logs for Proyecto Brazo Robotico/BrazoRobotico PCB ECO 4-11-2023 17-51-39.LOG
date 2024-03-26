@@ -1,0 +1,18 @@
+Added Component: Designator=A4988(DRV8825)
+Added Pin To Net: NetName=GND Pin=A4988-1
+Added Pin To Net: NetName=D6 Pin=A4988-2
+Added Pin To Net: NetName=D5 Pin=A4988-3
+Added Pin To Net: NetName=D4 Pin=A4988-4
+Added Pin To Net: NetName=NetA4988_5 Pin=A4988-5
+Added Pin To Net: NetName=NetA4988_5 Pin=A4988-6
+Added Pin To Net: NetName=D2 Pin=A4988-7
+Added Pin To Net: NetName=D3 Pin=A4988-8
+Added Pin To Net: NetName=+12 Pin=A4988-9
+Added Pin To Net: NetName=GND Pin=A4988-10
+Added Pin To Net: NetName=NetA4988_11 Pin=A4988-11
+Added Pin To Net: NetName=NetA4988_12 Pin=A4988-12
+Added Pin To Net: NetName=NetA4988_13 Pin=A4988-13
+Added Pin To Net: NetName=NetA4988_14 Pin=A4988-14
+Added Pin To Net: NetName=+5 Motor(s) Pin=A4988-15
+Added Pin To Net: NetName=GND Pin=A4988-16
+Added Member To Class: ClassName=Esquematico Member=Component A4988 Bornera, 12 pin

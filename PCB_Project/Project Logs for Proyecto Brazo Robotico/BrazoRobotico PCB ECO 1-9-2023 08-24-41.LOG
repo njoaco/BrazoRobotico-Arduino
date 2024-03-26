@@ -1,0 +1,6 @@
+Added Component: Designator=HC-06(HDR1X4)
+Added Pin To Net: NetName=+5 Pin=HC-06-1
+Added Pin To Net: NetName=GND Pin=HC-06-2
+Added Pin To Net: NetName=NetArduino Nano_17 Pin=HC-06-3
+Added Pin To Net: NetName=NetArduino Nano_16 Pin=HC-06-4
+Added Member To Class: ClassName=Esquematico Member=Component HC-06 Bornera, 12 pin
