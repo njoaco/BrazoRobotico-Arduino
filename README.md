@@ -11,7 +11,7 @@ Proyecto de brazo robótico controlado por Bluetooth a través de una aplicació
 
 ## Captura y GIF del proyecto
 
-![alt text](https://r2.easyimg.io/9pxngwbpz/1.png)
+![Home](https://github.com/njoaco/BrazoRobotico-Arduino/assets/162630044/3ad531e6-deb7-42fb-b543-f83afc3e2e74)
 
 ![15b59dd0e4cfa8cdff314884140ab45d (1)](https://github.com/njoaco/BrazoRobotico-Arduino/assets/162630044/7a529766-bea3-43bc-89ae-36eb90b50911)
 
